@@ -3,7 +3,7 @@ $(document).ready(function() {
   getThingSpeakData(1417);
 
   $("#buttonToClick").click(function() {
-    $("#response").html("Hello, World!");
+    $("#response").html("Hello, World.");
   });
 
 });
